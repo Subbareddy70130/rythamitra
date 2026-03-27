@@ -1,0 +1,8 @@
+{
+  "name": "rythumitra",
+  "version": "1.0.0",
+  "description": "Farming application",
+  "scripts": {
+    "start": "echo 'Use npm run start in frontend or backend'"
+  }
+}
